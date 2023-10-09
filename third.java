@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("Ви внесли продукт \"" + productName + "\" з ціною " + price + " грн");
 
-        // Закриття Scanner
+    
         scanner.close();
     }
 }
